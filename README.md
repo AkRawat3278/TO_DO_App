@@ -41,7 +41,7 @@ A minimal and user-friendly To-Do List application built with **HTML, CSS, and J
 Feel free to submit issues or fork the project to improve it.
 
 ## 📜 License
-This project is licensed under the **MIT License** under the name **ArRawat3278**.
+This project is licensed  under the name **ArRawat3278**.
 
 ---
 Happy Coding! 🚀
